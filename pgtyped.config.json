@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "transform": true,
+      "srcDir": "src",
+      "targetDir": "src/types",
+      "dbConnection": "postgres://tsdbadmin:rqgdt1n9dnm33uws@cj8cxoigss.f8vow2quw5.tsdb.cloud.timescale.com:38167/tsdb?sslmode=require"
+    }
+  }
+  

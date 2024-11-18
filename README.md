@@ -38,7 +38,6 @@ IoT-Data-Monitoring-System/
 ├── src/
 │   ├── routes/                # API route handlers
 │   ├── db.ts                  # Database connection logic
-│   ├── schemas/               # Zod schemas for runtime validation
 │   ├── queries/               # SQL query files
 │   └── types/                 # TypeScript interfaces and types
 │
